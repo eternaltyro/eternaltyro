@@ -22,3 +22,5 @@ I am a Solutions Architect, DevSecOps Engineer, or Site Reliability Engineer - d
 - 💬 Ask me about technology ethics, labour rights, and the perils of solutionism (apart from what is above)
 
 Not all me's online are me.
+
+The display picture is [Bertrand Russell](https://en.wikipedia.org/wiki/Bertrand_Russell)
