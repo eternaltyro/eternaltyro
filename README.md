@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Solutions Architect, DevSecOps Engineer, or Site Reliability Engineer - depending on the timeline and context. I wrestle with cloud infrastructure automation during my day job. I help enterprises streamline their infrastructure and application architecture, wrangle costs, and dominate issues with security, compliance, stardardisation and documentation. I also volunteer as tester for some open source applications in my free time.
+
+- 🔭 I’m currently working on Infrastructure Architecture for Tasking Manager
+- 🌱 I’m currently learning Pydantic and Rust - let's see how that goes.
+- 💬 Ask me about technology ethics, labour rights, and the perils of solutionism (apart from what is above)
+
+Not all me's online are me.
