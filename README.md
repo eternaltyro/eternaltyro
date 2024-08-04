@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Solutions Architect, DevSecOps Engineer, or Site Reliability Engineer - depending on the timeline and context. I wrestle with cloud infrastructure automation during my day job. I help enterprises streamline their infrastructure and application architecture, wrangle costs, and dominate issues with security, compliance, stardardisation and documentation. I also volunteer as tester for some open source applications in my free time.
+I am a DevSecOps and Site Reliability Engineer. I wrestle with cloud infrastructure automation during my day job. I help enterprises streamline their infrastructure and application architecture, wrangle costs, and dominate issues with security, compliance, stardardisation and documentation. I also volunteer as tester for some open source applications in my free time.
 
 - 🔭 I’m currently working on Infrastructure Architecture for Tasking Manager
 - 🌱 I’m currently learning OpenPolicyAgent (for Terraform), Pydantic, and Rust - let's see how that goes.
